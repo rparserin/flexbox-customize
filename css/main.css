@@ -115,6 +115,7 @@ body {
   margin: 0;
   height: 100%;
   width: 100%;
+  border-bottom: 2px solid #fff;
 }
 
 #content {
@@ -134,6 +135,7 @@ body {
   width: 30%;
   height: 300px;
   margin: 20px;
+  border: 2px solid #fff;
 }
 
 #content p span {
